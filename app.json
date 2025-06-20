@@ -1,15 +1,15 @@
 {
     "name": "ANUWH MD",
     "description": "ANUWH-MD has been world #1 multi device whatsapp bot. 👨‍💻❤️",
-    "logo": " ",
+    "logo": "https://postimg.cc/hhNnXtQ0",
     "keywords": ["anuwh-md", "bot", "whatsapp bot"],
     "success_url": "/",
   
     "env": {
       "SESSION_ID": {
-              "description": "Type the Session-ID you got from scaning QR",
+              "description": "Type the Session-ID you got from scaning Qr",
               "required": true,
-              "value": "put session id here"
+              "value": "SUPUN-MD=GJcTjChA#s4ljhu_xFRdC7u23bvOsls2LfCjE6SBrv2c_avRtGaQ"
           }
   
       },
