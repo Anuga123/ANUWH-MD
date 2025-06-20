@@ -1,7 +1,7 @@
 {
-    "name": "SUPUN-MD",
+    "name": "ANUWH-MD",
     "version": "3.5.5",
-    "description": "A WhatsApp bot created using Node.js",
+    "description": "A WhatsApp bot created using Node.js by Anuga Senithu.",
     "main": "supunmd.js",
     "scripts": {
       "start": "pm2 start supunmd.js --deep-monitoring --attach --name supunmd",
