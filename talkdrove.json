@@ -1,14 +1,13 @@
 {
-    "bot-name": "SUPUN-MD",
-    "description": "SUPUM-MD has been world no01 multi device whatsapp bot...👨‍💻❤❤️",
-    "logo": "https://i.ibb.co/mVJg1Ljn/Supunmd.jpg",
-    "keywords": ["bot", "whatsapp", "automation", "supunmd", "supun"],
-    "documentation-link": "https://supun-md-main-web.pages.dev/session",
-    "owner-verification":"supunfernando022@gmail.com",
+    "bot-name": "ANUWH-MD",
+    "description": "ANUWH-MD has been world #1 multi device whatsapp bot...👨‍💻❤❤️",
+    "logo": "https://postimg.cc/hhNnXtQ0",
+    "keywords": ["bot", "whatsapp", "automation", "anuwhmd", "anuga"],
+    "owner-verification":"anuga.senithu2013official@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Paste Your SUPUN-MD session",
+        "description": "Paste Your session",
         "value":"",
         "required": true
         
